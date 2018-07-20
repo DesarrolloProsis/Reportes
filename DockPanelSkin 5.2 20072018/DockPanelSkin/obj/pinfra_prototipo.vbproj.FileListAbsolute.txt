@@ -1,0 +1,561 @@
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+C:\Documents and Settings\DAVID LEON\Escritorio\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\PINFRA 22_07_08\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.exe
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.pdb
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\MySql.Data.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\PropertyGridEx.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.pdb
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\ResolveAssemblyReference.cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra_prototipo.vbproj.ResolveComReference.cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\clientes.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\detalle.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmAltaVheiculo.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmCargarTag.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmColumansLtv.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmConsolaAdmin.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDespliegeRH.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDespliegueCatalogos.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDetalleVehiculo.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDivisiones.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDocument.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmImportacionCTC.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmListas.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmMonto.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmPalabraClave.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmSociosMultiplicadores.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmTipoBeca.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frm_no_Becarios.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Resources.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmMain.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmProperty.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmSolution.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\SplashScreenMain.resources
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra_prototipo.vbproj.GenerateResource.Cache
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.exe
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.xml
+E:\Desarrollos Net\PINFRA\22_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\MySql.Data.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\PropertyGridEx.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\VS2005Extender.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra_prototipo.vbproj.ResolveComReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\clientes.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\detalle.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmAltaVheiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmCargarTag.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmColumansLtv.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmConsolaAdmin.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDespliegeRH.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDespliegueCatalogos.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDetalleVehiculo.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDivisiones.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmDocument.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmImportacionCTC.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmListas.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmMonto.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmPalabraClave.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmReporteador.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmSociosMultiplicadores.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmTipoBeca.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frm_no_Becarios.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\Resources.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmProperty.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\frmSolution.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\SplashScreenMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Release\pinfra.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_por_dia.rpt
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+E:\Desarrollos Net\PINFRA\24_07_08\hoy\24_07_08\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_por_dia.rpt
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_por_dia.rpt
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+E:\Desarrollos Net\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_analisis_dia_hora.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_analisis_dia_hora.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_por_dia.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_carril_importe.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPlantillaFactura.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_a.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomatica.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAlarmaSaldos.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Outlook.dll
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz5.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAplicaciondePagosBancomer.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz5_a.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Caseta_Clase_cz1.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Caseta_Clase.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Carril_Clase_cz.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Caseta_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Caseta_Clase2.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Transportista_Clase_cz3.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Transportista_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Importe_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_corte_trasportista.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_caseta_estatus.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_facturacion_mes.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionDetalle.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAplicacionPagos.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomaticaDetalle.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_antiguedad_saldos.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCompaniaFac.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmBuscarCompania.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_fideicomiso_ingresos.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cryFacturaImagen.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAccionesEspeciales.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCancelacionFacturas.resources
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_punto_venta_pacsa.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_cep.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_marquesa.rpt
+G:\Desarrollo\PINFRA\29_07_08\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmNotaCredito.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.exe
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.pdb
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\pinfra.xml
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Outlook.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Excel.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Excel.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.ResolveComReference.cache
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cryFacturaImagen.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Caseta_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Importe_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Transportista_Clase_cz3.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_antiguedad_saldos.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_caseta_estatus.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_corte_trasportista.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_facturacion_mes.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_cep.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_marquesa.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_fideicomiso_ingresos.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Carril_Clase_cz.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Caseta_Clase2.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz5.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Carril_Clase_cz5_a.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Caseta_Clase_cz1.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Transportista_Clase_cz.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_carril_importe.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_factura_a.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Caseta_Clase.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Importe_Transportista_Clase_cz2.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_analisis_dia_hora.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_movimientos_por_dia.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_punto_venta_pacsa.rpt
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAccionesEspeciales.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAlarmaSaldos.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAplicaciondePagosBancomer.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmAplicacionPagos.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmBuscarCompania.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCancelacionFacturas.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmCompaniaFac.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomatica.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomaticaDetalle.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionDetalle.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmNotaCredito.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPlantillaFactura.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra_prototipo.vbproj.GenerateResource.Cache
+G:\Desarrollo\PINFRA\01_05_09\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\cry_Aforo_Importe_Transportista_Carril.rpt
+G:\Desarrollo\Transferencias\Desarrollo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.exe
+G:\Desarrollo\Transferencias\Desarrollo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.xml
+G:\Desarrollo\Transferencias\Desarrollo\DockPanelSkin\DockPanelSkin\obj\Debug\pinfra.pdb

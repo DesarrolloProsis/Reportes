@@ -1,0 +1,32 @@
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Colorado_Net_2007.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Colorado_Net_2007.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\Colorado_Net_2007.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Fundacion_Televisa_prototipo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmBecalosMaestra.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frm_no_Becarios.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmDivisiones.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmSociosMultiplicadores.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\Fundacion Televisa\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.exe
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.xml
+C:\Documents and Settings\micke\Mis documentos\Desarrollos ACER\pinfra\prototipo\pinfra\Prototipo\coloradoNet_001\DockPanelSkin_demo\DockPanelSkin\DockPanelSkin\obj\Debug\Colorado_Net_2007.pdb

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="xml_reporteador" targetNamespace="http://tempuri.org/xml_reporteador.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/xml_reporteador.xsd" xmlns:mstns="http://tempuri.org/xml_reporteador.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Comparativo_Preliminar_Aforo_Ingreso_Transito_Vehicular_a">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Grupo" type="xs:string" />
+        <xs:element name="Concepto" type="xs:string" />
+        <xs:element name="Descricion_clase" type="xs:string" />
+        <xs:element name="Numero_clase" type="xs:string" />
+        <xs:element name="Moneda" type="xs:double" />
+        <xs:element name="Numero" type="xs:double" />
+        <xs:element name="strNumero" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Comparativo_Preliminar_Aforo_Ingreso_Transito_Vehicular_a_totales">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Cantidad" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />
+        <xs:element name="Tipo_Total" type="xs:string" />
+        <xs:element name="strNumero" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Bitacora_de_Operacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Fecha_Operacion" type="xs:date" />
+        <xs:element name="Hora_Apertura" type="xs:date" />
+        <xs:element name="No_Turno" type="xs:string" />
+        <xs:element name="Fecha_Final" type="xs:date" />
+        <xs:element name="Hora_Cierre" type="xs:date" />
+        <xs:element name="No_De_Carril" type="xs:string" />
+        <xs:element name="No_De_Empleado" type="xs:string" />
+        <xs:element name="Operacion" type="xs:string" />
+        <xs:element name="No_Control_Preliquidacion" type="xs:string" />
+        <xs:element name="Observaciones" type="xs:string" />
+        <xs:element name="Nom" type="xs:string" />
+        <xs:element name="cargo" type="xs:string" />
+        <xs:element name="carril_nacional" type="xs:string" />
+        <xs:element name="Fecha_Emision" type="xs:date" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="incidencias">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Hora" type="xs:date" />
+        <xs:element name="Tarifa" type="xs:string" />
+        <xs:element name="Tipo" type="xs:string" />
+        <xs:element name="Placas" type="xs:string" />
+        <xs:element name="Dependencias" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="ExentosEludidos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="T1" type="xs:string" />
+        <xs:element name="T02C" type="xs:string" />
+        <xs:element name="T03C" type="xs:string" />
+        <xs:element name="T04C" type="xs:string" />
+        <xs:element name="T05C" type="xs:string" />
+        <xs:element name="T06C" type="xs:string" />
+        <xs:element name="T07C" type="xs:string" />
+        <xs:element name="T08C" type="xs:string" />
+        <xs:element name="T09C" type="xs:string" />
+        <xs:element name="T02L01A" type="xs:string" />
+        <xs:element name="T01L01A" type="xs:string" />
+        <xs:element name="T02B" type="xs:string" />
+        <xs:element name="T03B" type="xs:string" />
+        <xs:element name="T04B" type="xs:string" />
+        <xs:element name="MOTO" type="xs:string" />
+        <xs:element name="T09PnnC" type="xs:string" />
+        <xs:element name="T01LnnA" type="xs:string" />
+        <xs:element name="EX1" type="xs:string" />
+        <xs:element name="EX2" type="xs:string" />
+        <xs:element name="TOTAL" type="xs:string" />
+  
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+</xs:schema>

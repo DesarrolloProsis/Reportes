@@ -1,0 +1,11 @@
+Versión rapida, sin reporte con marca de agua. Para proyecto México-Irapuato, plaza Cerro Gordo
+
+°Selección de encargado de turno
+°Ingreso de comentarios en reporte de Turno y Dia
+
+22/02/2018
+
+°Comparatavio: detecciones erroneas en ceros e info de reclasificados
+
+18/04/2018
+

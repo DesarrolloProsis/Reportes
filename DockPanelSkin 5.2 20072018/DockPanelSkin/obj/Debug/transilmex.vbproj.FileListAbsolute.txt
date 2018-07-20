@@ -1,0 +1,213 @@
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\transilmex.vbproj.ResolveComReference.cache
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.exe
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.xml
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.pdb
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\Transilmex.exe
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\Transilmex.pdb
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\Transilmex.xml
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\clientes.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\detalle.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAccionesEspeciales.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmBusqueda.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCamarasBordo.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaDestinoPanel.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaDestinoTag.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaISO.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaManualViaje.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaManualViajeParticulares.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaOrigen.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAltaVheiculo.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaDestino.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAplicacionPagos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAsignarRemolques.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCancelacionFacturas.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCargarTag.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoRecolectores.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmChoix.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmClientesMex.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmColumansLtv.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCompaniaFac.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsecutivoTrasferencias.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegeRH.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosFrecuencia.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosParticulares.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosRecolectores.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosTransporte.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleVehiculo.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomatica.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionAutomaticaDetalle.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmFacturacionDetalle.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmImportacionCTC.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmInventarioComputo.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmInventarioPersonal.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmMonto.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmNexteles.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmNotaCredito.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmObservaciones.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmObservaciones_new.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmOperadores.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPersonal.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPlantillaFactura.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmRecolectores.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmRecolectores_modificar.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmTipoBeca.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmTransferenciasCaptura.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmTransferenciasOperaciones.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmVehiculos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frm_Asignaciones_Historial.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frm_asignacion_remolque_tractor.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frm_Asignación_Operador.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frm_Correcciones.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frm_correcciones_alta.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\transilmex.vbproj.GenerateResource.Cache
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosTransPart.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosTransPartVehiculos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmVehiculosParticulares.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosChoix.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaManualViajeChoix.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosTransPartPagoTesoreria.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPagoTesoreria.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAccionesEspecialesFrecuencias.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmParticularesSaldos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmPagoTesoreriaModificacion.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogosInventarios.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmProveedores.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaManualViajeDelegacional.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosDelegacional.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoTractorDelegacional.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmVehiculosDelegacionales.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCambioUsuario.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCanceladosControl.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmAnalisisDesgloceTransRec.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmIsoDocumentos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmIsoWeb.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmSalidaTransferencias.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmIngresoDestinos.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaDestinoDatosOrigen.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmCapturaOrigenDatosTransfer.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsecutivosTicketsAud.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmEliminarTicket.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmModificaTractoCaja.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmTarifas.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+D:\Desarrollo\Transferencias\sqlServer2008\DockPanelSkin\DockPanelSkin\obj\Debug\frmModificarFechas.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\transilmex.vbproj.ResolveComReference.cache
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.exe
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.xml
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Transilmex.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbproj.ResolveComReference.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbprojResolveAssemblyReference.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoDocumentacion.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleDocumentos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocumentosWEB.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClaveFecha.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbproj.GenerateResource.Cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosPreentrada.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDestinosCarga.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPaneles.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmGranel.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmEnsacado.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmOtrosMovimientos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.config
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.CodeAnalysisLog.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.lastcodeanalysissucceeded
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.exe
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPesos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmHojaMaestra.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmVisualizadorHojaMaestra.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmGranelEntregas.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosProductos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProducto.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbprojResolveAssemblyReference.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\San Luis.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\San Luis.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbprojResolveAssemblyReference.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\TRANSILMEX.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Oracle.DataAccess.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources

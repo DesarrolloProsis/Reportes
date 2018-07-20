@@ -1,0 +1,59 @@
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.vbproj.ResolveComReference.cache
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.pdb
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.xml
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\ResolveAssemblyReference.cache
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.vbproj.GenerateResource.Cache
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.exe
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.xml
+D:\fede\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.vbproj.ResolveComReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe.config
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.vbproj.GenerateResource.Cache

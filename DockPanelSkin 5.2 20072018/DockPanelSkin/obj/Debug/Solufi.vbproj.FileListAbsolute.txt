@@ -1,0 +1,311 @@
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe.config
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Solufi.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Solufi.vbproj.ResolveComReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Solufi.vbproj.GenerateResource.Cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Desarrollo autolavado\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe.config
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+D:\Desarrollo\SOLUFI\desarrollo 4\Autolavado\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe.config
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Autolavado.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmFactoraje.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosFactoraje.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.config
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.exe
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.xml
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.pdb
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocumentosWEB.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleDocumentos.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentas.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosDescuentoR.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+D:\Desarrollo\SOLUFI\desarrollo 4\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentasFinal.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.config
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.exe
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.xml
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.pdb
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.pdb
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.xml
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.CodeAnalysisLog.xml
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.lastcodeanalysissucceeded
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentas.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentasFinal.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosDescuentoR.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosFactoraje.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosOportunidad.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleDocumentos.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocumentosWEB.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmFactoraje.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\David Leon\Desktop\David\2012_10_21\solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoAcciones.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.config
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.exe
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.xml
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.pdb
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.pdb
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.xml
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoAcciones.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentas.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentasFinal.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosDescuentoR.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosFactoraje.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosOportunidad.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleDocumentos.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocumentosWEB.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmFactoraje.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmGastosMensuales.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoDocumentacion.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClaveFecha.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProforma.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaMatriz.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosCreditoSimple.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmCreditoSimple.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaBusquedaUno.resources
+E:\Solufi\Grupo Solufi\Grupo Solufi\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaBusquedaDos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.config
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Interop.VBIDE.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.ResolveComReference.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.exe
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.CodeAnalysisLog.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\SOLUFI.exe.lastcodeanalysissucceeded
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\MySql.Data.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\PropertyGridEx.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.VBIDE.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.pdb
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\bin\Debug\VS2005Extender.xml
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbprojResolveAssemblyReference.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoAcciones.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmCatalogoDocumentacion.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmclientes.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmConsolaAdmin.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmContraseña.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmCreditoSimple.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentas.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDescuentoRentasFinal.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosClientes.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosCreditoSimple.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosDescuentoR.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosFactoraje.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDespliegueCatalogosOportunidad.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleDocumentos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDetalleLlamada.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocument.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmDocumentosWEB.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmFactoraje.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmGastosMensuales.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmListas.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmOportunidad.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClave.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPalabraClaveFecha.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmPerfiles.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProforma.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaBusquedaDos.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaBusquedaUno.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProformaMatriz.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmProperty.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmSolution.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\frmMain.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SplashScreenMain.resources
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\SOLUFI.vbproj.GenerateResource.Cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\San Luis\Desarrollo Sistema\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled

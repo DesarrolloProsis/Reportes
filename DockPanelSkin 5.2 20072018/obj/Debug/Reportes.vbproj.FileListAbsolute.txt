@@ -1,0 +1,315 @@
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\borrar\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\DockPanelSkin_36\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\Triguieros\Proyecto Telepeaje 2012 rep\V. 2012\Actual\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\Desarrollo\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.pdb
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmReporteador.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.exe
+D:\PROSIS\MEXICO-ACAPULCO\DESARROLLO_REPORTES\VER 2013\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Reportes sin validaciones - Original\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.pdb
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.xml
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.dll
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.xml
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Alejandro\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.compiled
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.config
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.pdb
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.xml
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.dll
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\itextsharp.xml
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmLineas.resources
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmR1.resources
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\frmReporteador.resources
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\MDIInicio.resources
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Resources.resources
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.cache
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\RdlCompile.compiled
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.exe
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.xml
+F:\Desarrollos Alejandro\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Modulo Reportes con validaciones\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulo Reportes con validaciones\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.xml
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.dll
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.xml
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Desktop\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Login.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.config
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.dll
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.xml
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmReporteador.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Login.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.exe
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.xml
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.pdb
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.pdb
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.xml
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+C:\Users\CAPUFE\Desktop\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmR1.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Login.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Resources.resources
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.CoreCompileInputs.cache
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.exe
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.xml
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.pdb
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.xml
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.dll
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.xml
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.config
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.pdb
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.xml
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.CodeAnalysisLog.xml
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Reportes.exe.lastcodeanalysissucceeded
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\itextsharp.xml
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbprojResolveAssemblyReference.cache
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmR1.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\frmReporteador.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Login.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Resources.resources
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.vbproj.CoreCompileInputs.cache
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.exe
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.xml
+E:\queretaro aplicativos\REPORTES\Queretaro Aplicativos\Modulo Reportes Queretaro\DockPanelSkin\obj\Debug\Reportes.pdb
